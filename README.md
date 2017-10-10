@@ -100,6 +100,7 @@ __variable string2__ = ""__;__
 
 >>Crear una función decifrado.
 
+
 __variable decifrado__ = __función__ (frase2) {
 
 
@@ -119,7 +120,7 @@ __Si__ (frase2.charCodeAt(index) __Sea mayor o igual a__ 65 __Y__ frase2.charCod
 
   __variable nuevaLetra__ = (String.fromCharCode(assci))__;__
 
-          string2 __+=__ nuevaLetra __;__
+  string2 __+=__ nuevaLetra __;__
 
     }
 
